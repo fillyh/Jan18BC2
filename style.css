@@ -1,0 +1,39 @@
+.box1{
+  height:200px;
+  background-color:blue;
+}
+
+.box2{
+  height:200px;
+  background-color:yellow;
+}
+
+.box3{
+  height:200px;
+  background-color:red;
+}
+
+.header{
+  height:50px;
+  background-color:yellow;
+}
+
+.hero{
+  height:600px;
+  background-color:pink;
+}
+
+.footer{
+  height:50px;
+  background-color:yellow;
+}
+
+.box8{
+  height:200px;
+  background-color:red;
+}
+
+.box4{
+  height:200px;
+  background-color:black;
+}
