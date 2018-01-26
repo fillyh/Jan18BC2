@@ -1,3 +1,8 @@
+.navbar{
+  margin:0;
+}
+
+
 .box1{
   height:200px;
   background-color:blue;
@@ -12,15 +17,22 @@
   height:200px;
   background-color:red;
 }
-
-.header{
-  height:50px;
-  background-color:yellow;
+.headline{
+  margin:0;
 }
-
 .hero{
   height:600px;
   background-color:pink;
+}
+
+.hero h2:after{
+  content:"";
+  position:absolute;
+  height: 2px;
+  width:20%;
+  background-color:black;
+  top:50px;
+  right:40%;
 }
 
 .footer{
